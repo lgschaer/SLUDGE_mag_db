@@ -1,8 +1,7 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/96700259-715a-4db4-8cb4-c7a560a56543"
-       alt="SLUDGE logo" width="200" align="left"
+       alt="SLUDGE logo" width="400" align="left"
        style="margin-right: 20px; margin-bottom: 10px;" />
-  <b>SLUDGE</b> (Sequenced Lineages for Understanding Digester Genomes for Engineering) is a curated database of high-quality metagenome-assembled genomes (MAGs) from anaerobic digesters and bioreactor systems. It provides a framework for understanding microbial lineages that drive waste treatment and bioenergy production.
 </p>
 
 
