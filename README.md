@@ -4,7 +4,7 @@
        style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </p>
 
-<h1 align="center">SLUDGE: Sequenced Lineages for Understanding Digester Genomes for Engineering</h1>
+<h1 align="center">SLUDGE: Sequenced Lineages to Understand Digester Genomes for Engineering</h1>
 
 <h2>🧬 Why SLUDGE?</h2>
 <p>
